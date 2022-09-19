@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def product3Plus1():
+    return (x * y * z)
